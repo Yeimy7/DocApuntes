@@ -16,3 +16,7 @@ en un manifiesto de tipo: hcl, yaml, si usas terraform, o docker
 infraestructura con los recursos y apart e esta la configuracion como codigo
 Politicas como codigo:
 diferencia entre politica y norma.
+Que otros repositorios de codigo existen?
+O que otros controladores de versiones?
+
+gitlab o github actions en vez de jenkins
